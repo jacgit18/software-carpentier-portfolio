@@ -29,7 +29,7 @@ export default function PersonalProjects() {
                 <li>Offline logging, Excel/JSON import and export, and GitHub backups</li>
               </ul>
               <div className="more-row">
-                <a className="more" href="https://jacgit18.github.io/iron-log/" target="_blank" rel="noopener noreferrer">
+                <a className="more" href="https://iron-log-947510572244.us-central1.run.app/" target="_blank" rel="noopener noreferrer">
                   View deployed app <svg aria-hidden="true"><use href="#i-arrow" /></svg>
                   <span className="sr-only"> (opens in new tab)</span>
                 </a>
