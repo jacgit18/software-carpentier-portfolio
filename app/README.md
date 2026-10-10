@@ -150,5 +150,7 @@ malformed manifest.
 
 Iron Log's technology tags and feature summary were checked against its current
 [package.json](https://github.com/jacgit18/iron-log/blob/main/package.json) and
-[README](https://github.com/jacgit18/iron-log/blob/main/README.md) on October 1, 2026:
-React 19, Vite, Zustand, SheetJS, Vitest, and an offline-capable progressive web app.
+[README](https://github.com/jacgit18/iron-log/blob/main/README.md) on October 9, 2026:
+React 19, TypeScript, Vite, Zustand, Express 5, PostgreSQL on Neon, Kysely, Better Auth,
+Docker on Google Cloud Run (GitHub Pages for the static build), Playwright, Vitest, SheetJS,
+and an offline-capable progressive web app.
