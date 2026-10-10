@@ -13,20 +13,26 @@ export default function PersonalProjects() {
             <div className="body">
               <h2>Iron Log</h2>
               <div className="tags">
-                <span className="tag">React 19</span><span className="tag">Vite</span>
-                <span className="tag">Zustand</span><span className="tag">SheetJS</span>
-                <span className="tag">Vitest</span><span className="tag">Offline PWA</span>
+                <span className="tag">React 19</span><span className="tag">TypeScript</span>
+                <span className="tag">Vite</span><span className="tag">Zustand</span>
+                <span className="tag">Express 5</span><span className="tag">PostgreSQL (Neon)</span>
+                <span className="tag">Kysely</span><span className="tag">Better Auth</span>
+                <span className="tag">Docker</span><span className="tag">Google Cloud Run</span>
+                <span className="tag">Playwright</span><span className="tag">Vitest</span>
+                <span className="tag">SheetJS</span><span className="tag">Offline PWA</span>
               </div>
               <p>
-                An installable workout tracker built with React, Vite, and Zustand. It pairs a weekly
-                training board with set-by-set logging, progressive weight targets, and a muscle map.
-                Data stays in the browser, with offline support, SheetJS workbook exports, and GitHub
-                backup and restore.
+                An installable workout tracker built with React 19, TypeScript, Vite, and Zustand. It pairs
+                a weekly training board with set-by-set logging, progressive weight targets, and a muscle
+                map. It works offline first, and signed-in accounts sync through an Express 5 API backed
+                by PostgreSQL on Neon, with Better Auth and Kysely. The same image ships as a Docker
+                container on Google Cloud Run, with a static build on GitHub Pages.
               </p>
               <ul>
                 <li>A/B program rotation, editable programs, and saved versions</li>
                 <li>Progress charts, heavier-weight suggestions, and stall alerts</li>
-                <li>Offline logging, Excel/JSON import and export, and GitHub backups</li>
+                <li>Offline logging, account sync, Excel/JSON import and export, and GitHub backups</li>
+                <li>Vitest, Playwright end-to-end, and axe accessibility tests built to WCAG 2.2 AAA</li>
               </ul>
               <div className="more-row">
                 <a className="more" href="https://iron-log-947510572244.us-central1.run.app/" target="_blank" rel="noopener noreferrer">

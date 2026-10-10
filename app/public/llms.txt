@@ -16,7 +16,7 @@ This site describes Joshua's professional work, personal projects, technical ski
 ## Public source projects
 
 - [Joshua's GitHub profile](https://github.com/jacgit18): Public repositories.
-- [Iron Log](https://github.com/jacgit18/iron-log): Installable offline workout tracker built with React, Vite, and Zustand, with SheetJS exports and Vitest tests.
+- [Iron Log](https://github.com/jacgit18/iron-log): Installable offline workout tracker built with React 19, TypeScript, Vite, and Zustand, with an Express 5 API, PostgreSQL on Neon, Better Auth, Kysely, Docker on Google Cloud Run, SheetJS exports, and Vitest and Playwright tests.
 - [DevHiveMind](https://github.com/jacgit18/DevHiveMind): Connected software-development notes.
 - [UnderTheWing](https://github.com/Professional-Job-Seekers/UnderTheWing): A team-built mentorship platform.
 - [ParkAlert](https://github.com/jacgit18/ParkAlert): A parking-availability school project.
