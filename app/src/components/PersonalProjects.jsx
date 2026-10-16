@@ -54,7 +54,7 @@ export default function PersonalProjects() {
               <div className="tags">
                 <span className="tag">Obsidian</span><span className="tag">Markdown</span>
                 <span className="tag">Mind maps</span><span className="tag">Peer review</span>
-                <span className="tag">RAG</span>
+                <span className="tag">RAG</span><span className="tag">Digital Garden</span><span className="tag">Vercel</span>
               </div>
               <p>
                 A personal software-development encyclopedia built in Obsidian — ten numbered topic
@@ -68,10 +68,16 @@ export default function PersonalProjects() {
                 <li>Backlinked notes with a four-stage review status</li>
                 <li>Mind maps and a dashboard for navigating the vault</li>
               </ul>
-              <a className="more" href="https://github.com/jacgit18/DevHiveMind" target="_blank" rel="noopener noreferrer">
-                View DevHiveMind on GitHub <svg aria-hidden="true"><use href="#i-arrow" /></svg>
-                <span className="sr-only"> (opens in new tab)</span>
-              </a>
+              <div className="more-row">
+                <a className="more" href="https://devhivemind-garden.vercel.app" target="_blank" rel="noopener noreferrer">
+                  View deployed site <svg aria-hidden="true"><use href="#i-arrow" /></svg>
+                  <span className="sr-only"> (opens in new tab)</span>
+                </a>
+                <a className="more" href="https://github.com/jacgit18/DevHiveMind" target="_blank" rel="noopener noreferrer">
+                  View DevHiveMind on GitHub <svg aria-hidden="true"><use href="#i-arrow" /></svg>
+                  <span className="sr-only"> (opens in new tab)</span>
+                </a>
+              </div>
             </div>
           </article>
 
