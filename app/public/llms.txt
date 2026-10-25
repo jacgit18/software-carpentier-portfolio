@@ -8,7 +8,7 @@ This site describes Joshua's professional work, personal projects, technical ski
 
 - [Home](https://jacgit18.github.io/software-carpentier/#/home): Introduction and approach to planning, building, and improving software.
 - [Professional work](https://jacgit18.github.io/software-carpentier/#/professional-projects): Contributions at Capital One, TD Bank, and TracFlo.
-- [Personal projects](https://jacgit18.github.io/software-carpentier/#/personal-projects): Iron Log, DevHiveMind, UnderTheWing, and ParkAlert.
+- [Personal projects](https://jacgit18.github.io/software-carpentier/#/personal-projects): LoadBearer, DevHiveMind, UnderTheWing, and ParkAlert.
 - [About Joshua](https://jacgit18.github.io/software-carpentier/#/about): Background in IT support, quality assurance, business analysis, and software engineering.
 - [Skills](https://jacgit18.github.io/software-carpentier/#/skills): Languages, frameworks, databases, cloud services, and testing tools.
 - [Contact](https://jacgit18.github.io/software-carpentier/#/contact): Email, GitHub, LinkedIn, and meeting-booking links.
@@ -16,7 +16,7 @@ This site describes Joshua's professional work, personal projects, technical ski
 ## Public source projects
 
 - [Joshua's GitHub profile](https://github.com/jacgit18): Public repositories.
-- [Iron Log](https://github.com/jacgit18/iron-log): Installable offline workout tracker built with React 19, TypeScript, Vite, and Zustand, with an Express 5 API, PostgreSQL on Neon, Better Auth, Kysely, Docker on Google Cloud Run, SheetJS exports, and Vitest and Playwright tests.
+- [LoadBearer](https://github.com/jacgit18/iron-log): Installable offline workout tracker built with React 19, TypeScript, Vite, and Zustand, with an Express 5 API, PostgreSQL on Neon, Better Auth, Kysely, Docker on Google Cloud Run, SheetJS exports, and Vitest and Playwright tests.
 - [DevHiveMind](https://github.com/jacgit18/DevHiveMind): Connected software-development notes.
 - [DevHiveMind published site](https://devhivemind-garden.vercel.app): The notes published as a Digital Garden site on Vercel.
 - [UnderTheWing](https://github.com/Professional-Job-Seekers/UnderTheWing): A team-built mentorship platform.

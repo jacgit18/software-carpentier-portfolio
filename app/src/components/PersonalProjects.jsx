@@ -9,9 +9,9 @@ export default function PersonalProjects() {
         <p className="sub">Side builds — for fun, for training, or to fix my own workflow.</p>
         <div className="pgrid">
           <article className="card featured">
-            <div className="fig"><img src="./projects/iron-log.svg" width="460" height="300" fetchPriority="high" alt="Iron Log illustration: weekly workout board, progress chart, and muscle map" /></div>
+            <div className="fig"><img src="./projects/iron-log.svg" width="460" height="300" fetchPriority="high" alt="LoadBearer illustration: weekly workout board, progress chart, and muscle map" /></div>
             <div className="body">
-              <h2>Iron Log</h2>
+              <h2>LoadBearer</h2>
               <div className="tags">
                 <span className="tag">React 19</span><span className="tag">TypeScript</span>
                 <span className="tag">Vite</span><span className="tag">Zustand</span>
@@ -35,12 +35,12 @@ export default function PersonalProjects() {
                 <li>Vitest, Playwright end-to-end, and axe accessibility tests built to WCAG 2.2 AAA</li>
               </ul>
               <div className="more-row">
-                <a className="more" href="https://iron-log-947510572244.us-central1.run.app/" target="_blank" rel="noopener noreferrer">
+                <a className="more" href="https://loadbearer.app/" target="_blank" rel="noopener noreferrer">
                   View deployed app <svg aria-hidden="true"><use href="#i-arrow" /></svg>
                   <span className="sr-only"> (opens in new tab)</span>
                 </a>
                 <a className="more" href="https://github.com/jacgit18/iron-log" target="_blank" rel="noopener noreferrer">
-                  View Iron Log on GitHub <svg aria-hidden="true"><use href="#i-arrow" /></svg>
+                  View LoadBearer on GitHub <svg aria-hidden="true"><use href="#i-arrow" /></svg>
                   <span className="sr-only"> (opens in new tab)</span>
                 </a>
               </div>
