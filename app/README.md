@@ -148,7 +148,7 @@ malformed manifest.
 
 ## Project content sources
 
-Iron Log's technology tags and feature summary were checked against its current
+LoadBearer's technology tags and feature summary were checked against its current
 [package.json](https://github.com/jacgit18/iron-log/blob/main/package.json) and
 [README](https://github.com/jacgit18/iron-log/blob/main/README.md) on October 9, 2026:
 React 19, TypeScript, Vite, Zustand, Express 5, PostgreSQL on Neon, Kysely, Better Auth,

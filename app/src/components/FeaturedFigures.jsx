@@ -1,4 +1,4 @@
-// The two featured-project mockup illustrations (Iron Log's weekly board /
+// The two featured-project mockup illustrations (LoadBearer's weekly board /
 // progress chart / muscle map, and DevHiveMind's knowledge graph / topic index).
 // These use plenty of hyphenated SVG attributes (font-family, stroke-width, ...),
 // so rather than hand-convert every one to camelCase (easy to typo, hard to spot),
