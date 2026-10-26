@@ -30,4 +30,5 @@ Split because: n/a: this PR is the whole feature
 
 - [ ] The project's test, lint and build commands pass (replace this line with them)
 - [ ] Docs and changelog updated
+- [ ] CI minutes: n/a (no workflow or test-suite change), or PR wall-clock and runner minutes before and after, with any new job, leg, spec or timeout named and what a new e2e spec catches that a unit test cannot (`ci-budget.md`)
 - [ ] New packages: none, or listed in the description with the lower ladder rung and a `Dependency approval:` line (`dependency-security.md`)

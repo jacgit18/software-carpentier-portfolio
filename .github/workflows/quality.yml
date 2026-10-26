@@ -8,6 +8,7 @@ permissions:
 jobs:
   audit:
     runs-on: ubuntu-latest
+    timeout-minutes: 20 # timeout-ok: `playwright install --with-deps` stalled 375 s on a slow apt mirror on 2026-10-26 (normal run 2.5 min)
     defaults:
       run:
         working-directory: app
