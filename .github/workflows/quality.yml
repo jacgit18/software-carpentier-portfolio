@@ -8,6 +8,7 @@ permissions:
 jobs:
   audit:
     runs-on: ubuntu-latest
+    timeout-minutes: 6
     defaults:
       run:
         working-directory: app
