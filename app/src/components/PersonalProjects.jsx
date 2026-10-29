@@ -86,17 +86,21 @@ export default function PersonalProjects() {
             <div className="body">
                 <h2>UnderTheWing</h2>
                 <div className="tags">
-                  <span className="tag">Node.js</span><span className="tag">Express</span>
-                  <span className="tag">Sequelize</span><span className="tag">PostgreSQL</span>
+                  <span className="tag">Node.js</span><span className="tag">Express 5</span>
+                  <span className="tag">Passport</span><span className="tag">Sequelize</span>
+                  <span className="tag">PostgreSQL (Neon)</span><span className="tag">React 19</span>
+                  <span className="tag">Vite</span><span className="tag">Bootstrap</span>
+                  <span className="tag">Vitest</span><span className="tag">Render</span>
                 </div>
             <p>
               A team project (3 contributors) building a virtual mentorship platform that matches
               college students and high school seniors with working professionals through guided
               pathways. I built the backend — the Express API, Sequelize models, and PostgreSQL schema
-              behind the mentor-mentee matching and task tracking.
+              behind the mentor-mentee matching and task tracking. The Express service also serves the
+              React client and is deployed on Render, with PostgreSQL hosted on Neon.
             </p>
             <div className="more-row">
-              <a className="more" href="https://professional-job-seekers.github.io/UnderTheWing/#/" target="_blank" rel="noopener noreferrer">
+              <a className="more" href="https://underthewing.onrender.com/" target="_blank" rel="noopener noreferrer">
                 View deployed app <svg aria-hidden="true"><use href="#i-arrow" /></svg>
                 <span className="sr-only"> (opens in new tab)</span>
               </a>
